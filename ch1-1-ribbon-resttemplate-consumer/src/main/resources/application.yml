@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+
+ribbon-provider-1:
+  ribbon:
+    listOfServers: http://localhost:8080
